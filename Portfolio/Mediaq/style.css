@@ -1,0 +1,99 @@
+@media screen and (max-width: 600px){
+
+.cont1{
+  float: left;
+  width: 60%;
+  height: 60px;
+  background: #313131;
+}
+.cont11{
+  float: left;
+  width: 32%;
+  height: 40px;
+  margin-left: 1%;
+  margin-top: 20px;
+}
+.cont11 img{
+width: 100%;
+float: left;
+height: 30px;
+margin-left: 5%;
+margin-top: -10PX;
+}
+.cont12{
+display: none;
+}
+.cont12 p{
+display: none;
+}
+.cont13{
+display: none;
+}
+.cont13 p{
+display: none;;
+}
+.cont2{
+  float: left;
+  width: 10%;
+  height: 60px;
+  background: green;
+}
+.cont3{
+  float: left;
+  width: 30%;
+  height: 60px;
+  background: #F57500;
+}
+.left_cont{
+display: none;;
+}
+.left_cont2{
+display: none;;
+}
+.img_cont{
+  float: left;
+  width: 100%;
+  height: 575px;
+  background-color: red;
+}
+.left_contex{
+display: none;;
+}
+.explore{
+  float: left;
+  width: 40%;
+  height: 65px;
+  background-color: #313131;
+  margin-top: -65px;
+}
+.img_cont{
+  float: left;
+  width: 100%;
+  height: 575px;
+  background-image: url(https://webredox.net/demo/wp/zonar/wp-content/uploads/2020/11/8-2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.display{
+display: none;;
+}
+.display1{
+display: none;;
+}
+.display1 h1{
+display: none;;
+}
+.display1 p{
+display: none;;
+}
+.img_text h1{
+color: #fff;
+font-size: 27px;
+font-weight: bolder;
+font-family: roboto;
+margin-top: 150px;
+margin-left: 20px;
+  
+}
+}
+
